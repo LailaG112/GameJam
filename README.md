@@ -11,7 +11,7 @@ Game-play instructions
 
 ## Impediments
 Struggles or surprises you encountered during the development of the game
-We struggled to make the unity project and gihub repository so that everyone could edit it
+We struggled to make the unity project and github repository in a way so that everyone could edit it
 
 ## Implementation
 Features
