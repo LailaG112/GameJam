@@ -21,6 +21,6 @@ Assets, or resources used
 
 ## Future Development
 
-# Created by: Group Name
+# Created by: LVA
 List of group members (and contributions)
 Laila Grant - Programmed the player controls
