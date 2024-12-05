@@ -21,8 +21,8 @@ Assets, or resources used
 
 ## References
 * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic?style=condensed)
+* [Space Shooter Extention](https://kenney.nl/assets/space-shooter-extension)
 * 
-
 ## Future Development
 
 # Created by: LVA
