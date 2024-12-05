@@ -3,11 +3,13 @@
 MSCH-C220 Game Jam, December 2024
 
 ## Theme
-We reversed the controls
+* To incorporate the theme into our game we reversed the controls
 
 ## Game Play
 Objective
 Game-play instructions
+* Use the arrow keys to navigate through the obstacle course
+*  Be aware that the controls are reverse so up is down and left is right
 
 ## Impediments
 Struggles or surprises you encountered during the development of the game
