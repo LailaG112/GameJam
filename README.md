@@ -18,9 +18,13 @@ Features
 Assets, or resources used
 
 ## References
+* [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic?style=condensed)
+* 
 
 ## Future Development
 
 # Created by: LVA
 List of group members (and contributions)
 Laila Grant - Programmed the player controls
+Annika Eskilson - Level Design 
+Violet Mankowski - Art Asthetic 
