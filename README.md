@@ -25,6 +25,6 @@ Assets, or resources used
 
 # Created by: LVA
 List of group members (and contributions)
-Laila Grant - Programmed the player controls
-Annika Eskilson - Level Design 
-Violet Mankowski - Art Asthetic 
+* Laila Grant - Programmed the player controls
+* Annika Eskilson - Level Design 
+* Violet Mankowski - Art Asthetic 
