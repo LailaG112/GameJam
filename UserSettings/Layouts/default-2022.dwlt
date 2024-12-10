@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1710
     height: 958
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -674,9 +674,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 9.401447, y: -1.5671467, z: -0.13703558}
+    m_Target: {x: 13.138468, y: -2.5371468, z: -0.12634476}
     speed: 2
-    m_Value: {x: 9.401447, y: -1.5671467, z: -0.13703558}
+    m_Value: {x: 13.138468, y: -2.5371468, z: -0.12634476}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -726,9 +726,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 16.079708
+    m_Target: 15.010593
     speed: 2
-    m_Value: 16.079708
+    m_Value: 15.010593
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -790,9 +790,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2a640000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 66f8ffffacf8ffffe8f9ffff
+      m_SelectedIDs: 0ce9ffff
+      m_LastClickedID: -5876
+      m_ExpandedIDs: e8f9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -808,7 +808,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 8}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -861,7 +861,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Unity.VisualScripting.Generated
+    - Assets/Art Files
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -869,15 +869,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Unity.VisualScripting.Generated
+  - Assets/Art Files
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/laila/Desktop/GameJam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 28640000
-    m_LastClickedID: 25640
+    m_SelectedIDs: 1e640000
+    m_LastClickedID: 25630
     m_ExpandedIDs: 000000000464000006640000086400000a64000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -933,7 +933,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000ee08010096080100506300006a520000924f000066520000485b0000685e00008e630000c06600005c66000054660000e46c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
